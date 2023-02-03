@@ -1,0 +1,3 @@
+git config --global user.name "Yiyuchen hu"
+git config --global user.email "yih226@lehigh.edu"
+git config --global color.ui auto
